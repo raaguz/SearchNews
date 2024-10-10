@@ -1,0 +1,6 @@
+@SearchNews_HostAddress = http://localhost:5252
+
+GET {{SearchNews_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
